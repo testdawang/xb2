@@ -9,6 +9,7 @@ server-conn:
 
 white-addr:
   - '45.159.210.6'
+  - '154.12.25.49'
 
 # 开启特殊标记增强
 flags: true
